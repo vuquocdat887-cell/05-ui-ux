@@ -239,6 +239,8 @@ label.vdi4 span {
     display: flex;
     align-items: center;
     gap: 12px;
+    border-top: 1px solid #EAECF0;
+    border-bottom: 1px solid #EAECF0;
 }
 
 .vdi3 input {
@@ -446,5 +448,4 @@ label.vdi3 span {
 .vdi2 span {
     border-top: 1px solid #EAECF0;
     border-bottom: 1px solid #EAECF0;
-    ;
 }
