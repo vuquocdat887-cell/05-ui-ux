@@ -213,7 +213,7 @@ body {
 
 }
 
-.vdi4 span {
+label.vdi4 span {
     width: 20px;
     height: 20px;
     border: 1px solid #7F56D9;
@@ -441,4 +441,10 @@ label.vdi3 span {
     border: 1px solid #D0D5DD;
     border-radius: 8px;
     padding: 8px 14px;
+}
+
+.vdi2 span {
+    border-top: 1px solid #EAECF0;
+    border-bottom: 1px solid #EAECF0;
+    ;
 }
